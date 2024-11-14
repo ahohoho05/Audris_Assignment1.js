@@ -17,7 +17,3 @@ hotelmgmt.addGuest("Mary", "Tan", 30);
 
 hotelmgmt.listGuests();
 
-hotelmgmt.getRoomStatus("1236");
-
-hotelmgmt.updateRoom("1236", "1000");
-
